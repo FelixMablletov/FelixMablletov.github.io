@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+header{
+    background-image: url(./img./image.png);
+    background-size: cover;
+    height: 650px;
+}
+.a-2{
+    position: absolute;
+    left: 883px;
+    top: 40px;
+    font-size: 18px;
+    line-height: 20px; 
+    text-decoration-line: underline;
+}
+.a-3{
+    position: absolute;
+    left: 205px;
+    top: 20px;
+}
