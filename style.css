@@ -9,7 +9,7 @@ header{
 }
 .a-2{
     position: absolute;
-    left: 883px;
+    left: 885px;
     top: 40px;
     font-size: 18px;
     line-height: 20px; 
@@ -21,11 +21,11 @@ header{
     top: 20px;
 }
 .a-4{
+    position: absolute;
     width: 560px;
-    height: 176px;
+    height: 175px;
     left: 420px;
     top: 180px;
-    position: absolute;
 }
 .a-5{
     position: absolute;
@@ -35,4 +35,9 @@ header{
     top: 150px;
     background: #F33D01;
     border-radius: 48px;
+}
+a{
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
 }
