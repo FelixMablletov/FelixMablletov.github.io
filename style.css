@@ -35,9 +35,15 @@ header{
     top: 150px;
     background: #F33D01;
     border-radius: 48px;
-}
-a{
+    cursor: pointer;
     color: white;
     font-size: 18px;
-    text-decoration: none;
+}
+.a-6{
+    position: absolute;
+    left: 650px;
+    width: 64px;
+    height: 64px;
+    top: 690px;
+    border-radius: 65px;
 }
