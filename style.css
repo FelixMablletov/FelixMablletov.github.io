@@ -8,6 +8,7 @@ header{
     height: 650px;
 }
 .a-2{
+    position: absolute;
     left: 880px;
     top: 40px;
     font-size: 20px;
@@ -15,16 +16,20 @@ header{
     text-decoration-line: underline;
 }
 .a-3{
+    position: absolute;
     left: 200px;
     top: 20px;
 }
 .a-4{
+    position: absolute;
     width: 560px;
     height: 180px;
     left: 420px;
     top: 180px;
+    font-size: 20px;
 }
 .a-5{
+    position: absolute;
     width: 210px;
     height: 50px;
     left: 150px;
@@ -36,28 +41,51 @@ header{
     font-size: 18px;
 }
 .a-6{
+    position: absolute;
     left: 650px;
-    width: 65px;
-    height: 65px;
+    height: 75px;
     top: 690px;
     border-radius: 65px;
 }
 .a-7{
+    position: absolute;
     width: 460px;
     height: 110px;
     left: 490px;
-    top: 770px;
+    top: 790px;
     font-family: Playfair Display;
 }
 .a-8{
+    position: absolute;
     margin: auto;
     padding-left: 95px;
-    padding-top: 85px;
+    padding-top: 305px;
     padding-right: 30px;
+    font-size: 20px;
+}
+.a-9{
+    position: absolute;
+    width: 439px;
+    height: 120px;
+    left: 220px;
+    top: 1080px;
+    font-size: 18px;
+}
+.a-10{
+    position: absolute;
+    width: 436px;
+    height: 116px;
+    left: 220px;
+    top: 1200px;
+    font-size: 18px;
 }
 .a-11{
+    position: absolute;
     width: 480px;
     height: 600px;
-    left: 700px;
-    top: 980px;
+    left: 720px;
+    top: 950px;
+}
+@media(max-width:730px){
+
 }
