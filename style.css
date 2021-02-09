@@ -25,15 +25,16 @@ header{
     width: 560px;
     height: 180px;
     left: 420px;
-    top: 180px;
+    top: 190px;
     font-size: 20px;
+    text-align: center;
 }
 .a-5{
     position: absolute;
     width: 210px;
     height: 50px;
-    left: 150px;
-    top: 150px;
+    left: 180px;
+    top: 160px;
     background: #F33D01;
     border-radius: 48px;
     cursor: pointer;
@@ -42,49 +43,71 @@ header{
 }
 .a-6{
     position: absolute;
-    left: 650px;
+    left: 680px;
     height: 75px;
     top: 690px;
     border-radius: 65px;
 }
 .a-7{
     position: absolute;
-    width: 460px;
+    width: 490px;
     height: 110px;
     left: 490px;
     top: 790px;
     font-family: Playfair Display;
+    text-align: center;
+    font-size: 20px;
 }
 .a-8{
     position: absolute;
     margin: auto;
-    padding-left: 95px;
-    padding-top: 305px;
+    left: 200px;
+    padding-left: 90px;
+    top: 1000px;
     padding-right: 30px;
     font-size: 20px;
+    max-width: 600px;
 }
 .a-9{
     position: absolute;
     width: 439px;
     height: 120px;
-    left: 220px;
-    top: 1080px;
-    font-size: 18px;
+    left: 290px;
+    top: 1330px;
+    font-size: 20px;
 }
 .a-10{
     position: absolute;
     width: 436px;
-    height: 116px;
-    left: 220px;
-    top: 1200px;
-    font-size: 18px;
+    left: 290px;
+    top: 1490px;
+    font-size: 20px;
+    line-height: 20px;
 }
 .a-11{
     position: absolute;
-    width: 480px;
-    height: 600px;
-    left: 720px;
-    top: 950px;
+    left: 800px;
+    top: 970px
+}
+.a-12{
+    padding-top: 50px;
+}
+.a-13{
+    position: absolute;
+width: 265px;
+height: 16px;
+left: 100px;
+text-align: center;
+top: 90px;
+color: #86899B;
+}
+.a-14{
+    position: absolute;
+    width: 560px;
+    top: 100px;
+    font-size: 24px;
+    line-height: 24px;
+    color: rgba(34, 34, 34, 0.75);
 }
 @media(max-width:730px){
 
