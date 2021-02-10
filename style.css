@@ -73,14 +73,14 @@ header{
     width: 439px;
     height: 120px;
     left: 290px;
-    top: 1330px;
+    top: 1270px;
     font-size: 20px;
 }
 .a-10{
     position: absolute;
     width: 436px;
     left: 290px;
-    top: 1490px;
+    top: 1420px;
     font-size: 20px;
     line-height: 20px;
 }
@@ -96,12 +96,12 @@ header{
 }
 .a-13{
     position: absolute;
-width: 265px;
-height: 16px;
-left: 100px;
-text-align: center;
-top: 90px;
-color: #86899B;
+    width: 265px;
+    height: 16px;
+    left: 100px;
+    text-align: center;
+    top: 90px;
+    color: #86899B;
 }
 .a-14{
     position: absolute;
@@ -126,6 +126,12 @@ color: #86899B;
     font-size: 24px;
     line-height: 24px;  
     color: rgba(34, 34, 34, 0.75);
+}
+.a-17{
+    position: absolute;
+    color: rgba(34, 34, 34, 0.75);
+    top: 30px;
+    font-size: 23px;
 }
 @media(max-width:730px){
 
