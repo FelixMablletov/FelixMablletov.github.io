@@ -133,6 +133,15 @@ header{
     top: 30px;
     font-size: 23px;
 }
+.a-18{
+    position: absolute;
+    width: 365px;
+    height: 28px;
+    left: 292px;
+    top: 1775px;
+    font-size: 20px;
+    color: #222222;
+}
 @media(max-width:730px){
 
 }
