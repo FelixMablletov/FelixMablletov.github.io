@@ -159,7 +159,12 @@ header{
     top: 1970px;
 }
 .a-22{
-    
+    position: absolute;
+    width: 335px;
+    height: 116px;
+    left: 845px;
+    top: 1970px;
+    font-size: 20px;
 }
 @media(max-width:730px){
 
